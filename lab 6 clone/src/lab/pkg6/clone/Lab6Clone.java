@@ -20,9 +20,12 @@ public class Lab6Clone {
         
         int i = 0;
         i++;
-        System.out.println("Hi Desmond" + i);
+        System.out.println("Hi Desmond " + i);
         
+        i++;
+        System.out.println("Testing 2 " + i);
         
+        int j = 9;
         
     }
         
