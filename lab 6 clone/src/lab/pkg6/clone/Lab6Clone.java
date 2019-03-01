@@ -26,6 +26,7 @@ public class Lab6Clone {
         System.out.println("Testing 2 " + i);
         
         int j = 9;
+        int k = 7;
         
     }
         
