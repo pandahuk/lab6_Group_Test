@@ -20,6 +20,8 @@ public class Lab6_Group_Test {
         //Desmond
         System.out.println("Source lab 6"
                 + "");
+        
+        int commit = 0;
     }
     
 }
