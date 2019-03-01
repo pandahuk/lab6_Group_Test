@@ -20,6 +20,10 @@ public class Lab6Clone {
         
         int i = 0;
         i++;
+        System.out.println("Hi Desmond" + i);
+        
+        
+        
     }
-    
+        
 }
