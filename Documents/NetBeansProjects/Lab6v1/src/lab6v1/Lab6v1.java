@@ -20,7 +20,9 @@ public class Lab6v1 {
         System.out.println("Second commit by " + name);
         System.out.println("Third commit by " + name + "copy");
         System.out.println("Third commit by " + name + "original");
+        //commit 4 : merged conflicts 
         
+        System.out.println("Fifth commit : master branch");
         
         
     }
