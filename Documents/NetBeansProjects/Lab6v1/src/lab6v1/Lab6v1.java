@@ -19,6 +19,7 @@ public class Lab6v1 {
         String name = "Desmond";
         System.out.println("Second commit by " + name);
         System.out.println("Third commit by " + name + "copy");
+        System.out.println("Third commit by " + name + "original");
         
         
         
