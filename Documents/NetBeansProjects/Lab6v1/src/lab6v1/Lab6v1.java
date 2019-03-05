@@ -18,6 +18,7 @@ public class Lab6v1 {
         // TODO code application logic here
         String name = "Desmond";
         System.out.println("Second commit by " + name);
+        System.out.println("Third commit by " + name + "copy");
         
         
         
